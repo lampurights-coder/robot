@@ -1,0 +1,8 @@
+.env
+credentials.json
+token.json
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+chrome-linux64.zip
+weather_mcp/.weather_url_cache.json

@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "python",
+      "args": [
+        "/home/ai/ollm-ocr-2/tita-arshia/agent/weather_mcp/server.py"
+      ],
+      "cwd": "/home/ai/ollm-ocr-2/tita-arshia/agent"
+    }
+  }
+}

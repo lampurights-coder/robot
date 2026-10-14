@@ -1,0 +1,82 @@
+{
+  "metrics": {
+    "n": 9,
+    "accuracy": 0.8888888888888888,
+    "correct": 8,
+    "score_min": 0.55
+  },
+  "details": [
+    {
+      "query": "هزینه روکش چقدره؟",
+      "gold": "clinic2_1",
+      "pred": "clinic2_1",
+      "score": 0.89970684,
+      "correct": true,
+      "matched_question": "هزینهی روکش چقدره؟"
+    },
+    {
+      "query": "هزینه ایمپلنت چنده؟",
+      "gold": "clinic2_1",
+      "pred": "clinic2_1",
+      "score": 0.8373506,
+      "correct": true,
+      "matched_question": "هزینهی ایمپلنت چقدره؟"
+    },
+    {
+      "query": "جرمگیری چند تومنه؟",
+      "gold": "clinic2_1",
+      "pred": "clinic2_1",
+      "score": 0.4478051,
+      "correct": false,
+      "matched_question": "هزینهی جرمگیری چنده؟"
+    },
+    {
+      "query": "پر کردن دندون چقدر هزینه داره؟",
+      "gold": "clinic2_1",
+      "pred": "clinic2_1",
+      "score": 0.6595459,
+      "correct": true,
+      "matched_question": "هزینهی کامپوزیت چقدره برای هر دندون؟"
+    },
+    {
+      "query": "هزینه کامپوزیت هر دندون؟",
+      "gold": "clinic2_1",
+      "pred": "clinic2_1",
+      "score": 0.90454686,
+      "correct": true,
+      "matched_question": "هزینهی کامپوزیت چقدره برای هر دندون؟"
+    },
+    {
+      "query": "عصب کشی چقدر پول میخواد؟",
+      "gold": "clinic2_1",
+      "pred": "clinic2_1",
+      "score": 0.7189654,
+      "correct": true,
+      "matched_question": "هزینهی عصب کشی چقدره؟"
+    },
+    {
+      "query": "ارتودنسی چند؟",
+      "gold": "clinic2_1",
+      "pred": "clinic2_1",
+      "score": 0.5790416,
+      "correct": true,
+      "matched_question": "هزینه ارتودنسی چقدره؟"
+    },
+    {
+      "query": "جانبازا خدمات دندونپزشکی رایگان دارن؟",
+      "gold": "clinic2_2",
+      "pred": "clinic2_2",
+      "score": 0.65920836,
+      "correct": true,
+      "matched_question": "برای جانبازها خدمات دندانپزشکی رایگانه توی کلینیک شکری؟"
+    },
+    {
+      "query": "روکشم افتاد باید دوباره وقت بگیرم؟",
+      "gold": "clinic2_3",
+      "pred": "clinic2_3",
+      "score": 0.9200166,
+      "correct": true,
+      "matched_question": "روکشم افتاد لازمه دوباره وقت بگیرم؟"
+    }
+  ]
+}

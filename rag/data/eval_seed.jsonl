@@ -1,0 +1,294 @@
+{"chunk_id": "FAQ-Endo::sec-2", "query": "آیا دندان عقل قابل درمان ریشه است یا فقط باید کشیده شود؟", "gold_chunk_id": "FAQ-Endo::sec-2", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-3", "query": "آیا امکان درمان عصبی دندان‌های موقت وجود دارد؟", "gold_chunk_id": "FAQ-Endo::sec-3", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-4", "query": "چه خطراتی برای دندان وجود دارد اگر پاندمان موقت بعد از درمان عصب‌کشی از جای خود خارج شود؟", "gold_chunk_id": "FAQ-Endo::sec-4", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-5", "query": "راهکار درمان عفونت و آبسه اطراف دندان چیست و آیا می‌توان بدون تجویز پزشک آنتی‌بیوتیک مصرف کرد؟", "gold_chunk_id": "FAQ-Endo::sec-5", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-6", "query": "مدت زمان طبیعی درد پس از انجام عصب‌کشی چقدر است و چه زمانی باید نگران شد؟", "gold_chunk_id": "FAQ-Endo::sec-6", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-7", "query": "آیا طی فرایند درمان کانال‌ها (ریشه) بیمار احساس درد می‌کند؟", "gold_chunk_id": "FAQ-Endo::sec-7", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-8", "query": "آیا برای محافظت از دندان عصب‌کشی شده روکش ضروری است یا ترمیم ساده کافی می‌باشد؟", "gold_chunk_id": "FAQ-Endo::sec-8", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-9", "query": "آیا ورم کردن صورت پس از انجام روت کانال درمان طبیعی است یا نشانه عفونت؟", "gold_chunk_id": "FAQ-Endo::sec-9", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-1", "query": "آیا درد و علائم دیگر نشانه‌ی نشتی بیش از حد مواد پرکننده در درمان ریشه است؟", "gold_chunk_id": "FAQ-Endo::sec-1", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-2#2", "query": "راهکارهای درمانی برای شکستگی ابزار درون‌کانالی و تنگی کانال دندانی ناشی از کلسیفیکاسیون چیست؟", "gold_chunk_id": "FAQ-Endo::sec-2#2", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-1#2", "query": "آیا با پیر شدن، کانال‌های دندان به طور خودکار و قابل پیش‌بینی تنگ می‌شوند؟", "gold_chunk_id": "FAQ-Endo::sec-1#2", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-2#3", "query": "آیا مصرف داروهای ضدالتهاب قوی یا مشکلات سلامتی عمومی می‌تواند منجر به کاهش قطر مجاری ریشه دندان شود؟", "gold_chunk_id": "FAQ-Endo::sec-2#3", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-3#2", "query": "نقش سیگار و تنباکو در ایجاد تنگی کانال‌های ریشه دندان از طریق کاهش گردش خون", "gold_chunk_id": "FAQ-Endo::sec-3#2", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-4#2", "query": "آن ماده یا وسیله‌ای که دندانپزشک هنگام عصب کشی برای برداشتن پوسیدگی استفاده می‌کند و به آن رابردم می‌گویند چیست؟", "gold_chunk_id": "FAQ-Endo::sec-4#2", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-1#3", "query": "آیا میکروب‌های دهان می‌توانند وارد کانال دندان شوند و چه راهی برای جلوگیری از آن وجود دارد؟", "gold_chunk_id": "FAQ-Endo::sec-1#3", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-2#4", "query": "آیا خطر بلعیدن یا ورود مواد شیمیایی درمان عصب به گلو وجود دارد؟", "gold_chunk_id": "FAQ-Endo::sec-2#4", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-3#3", "query": "تدابیر احتیاطی برای جلوگیری از قورت دادن ابزارهای تیز در حین انجام عصب‌کشی توسط بیمار چیست؟", "gold_chunk_id": "FAQ-Endo::sec-3#3", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-4#3", "query": "توضیح دهید فایل در پروسه عصب‌کشی چه نقشی ایفا می‌کند و چرا برای شکل‌دهی کانال ضروری است؟", "gold_chunk_id": "FAQ-Endo::sec-4#3", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-27", "query": "چند ساعت طول می‌کشد تا عصب یک دندان کامل برداشته و پر شود؟", "gold_chunk_id": "FAQ-Endo::sec-27", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-28", "query": "چه علائمی نشان می‌دهد که دندان من نیاز به درمان ریشه دارد و پزشک چگونه این تشخیص را می‌دهد؟", "gold_chunk_id": "FAQ-Endo::sec-28", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-29", "query": "چه زمانی باید عصب‌کشی انجام شود و چه زمانی فقط پر کردن کافی است؟", "gold_chunk_id": "FAQ-Endo::sec-29", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-31", "query": "مبلغ پرداختی برای انجام عصب‌کشی روی دندان‌های مختلف چگونه محاسبه می‌شود و چرا نرخ آن ثابت نیست؟", "gold_chunk_id": "FAQ-Endo::sec-31", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-31#2", "query": "آیا تیره شدن یا شکستن دندان به معنای لزوم عصب‌کشی است؟", "gold_chunk_id": "FAQ-Endo::sec-31#2", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-32", "query": "شرایط استفاده از داروهای ضدباکتری در همزمانی با پرکردن کانال‌های دندان و مدت زمان آن", "gold_chunk_id": "FAQ-Endo::sec-32", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-33", "query": "چه زمانی درد دندان و حساسیت به سرما و گرما نیازمند بررسی ریشه‌ای و عکس‌برداری است؟", "gold_chunk_id": "FAQ-Endo::sec-33", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-34", "query": "شرایطی که در آن‌ها می‌توان به جای عصب‌کشی، دندان را با محافظت از عصب پر کرد و درصد موفقیت این روش چقدر است؟", "gold_chunk_id": "FAQ-Endo::sec-34", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-35", "query": "آیا درد گذرای دندان هنگام تماس با مواد سرد یا شیرین نشانه آسیب به عصب و نیاز به روت‌کانال است؟", "gold_chunk_id": "FAQ-Endo::sec-35", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-36", "query": "مدت زمان لازم برای تکمیل عصب‌کشی و دلایل انجام آن در چند مرحله چیست؟", "gold_chunk_id": "FAQ-Endo::sec-36", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-37", "query": "آیا عصب‌کشی بدون تزریق آمپول بی‌حسی قابل انجام است؟", "gold_chunk_id": "FAQ-Endo::sec-37", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-38", "query": "آیا می‌توان پس از عصب‌کشی بدون انجام روکش یا پر کردن، دندان را رها کرد؟", "gold_chunk_id": "FAQ-Endo::sec-38", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-39", "query": "چه ماده‌ای با بوی کلر در حین عصب‌کشی برای تمیز کردن داخل ریشه دندان استفاده می‌شود؟", "gold_chunk_id": "FAQ-Endo::sec-39", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-41", "query": "چرا درمان ریشه قبلی من جواب نداده و باید تکرار شود؟ آیا روکش زدن روی دانی که عفونت دارد بدون ترمیم مجدد مجاز است؟", "gold_chunk_id": "FAQ-Endo::sec-41", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-41#2", "query": "چه نشانه‌هایی از عفونت عصب دندان حکایت می‌کند و چه زمانی باید برای درمان ریشه اقدام کرد؟", "gold_chunk_id": "FAQ-Endo::sec-41#2", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-42", "query": "آیا پس از عصب‌کشی احتمال بازگشت عفونت یا شکستن دندان و نیاز به تکرار کار وجود دارد؟", "gold_chunk_id": "FAQ-Endo::sec-42", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-43", "query": "پیامدهای به تعویق انداختن عصب‌کشی و گسترش عفونت از ریشه دندان به بافت‌های مجاور چیست؟", "gold_chunk_id": "FAQ-Endo::sec-43", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-44", "query": "آیا انجام عصب‌کشی باعث می‌شود دندان در برابر فشار جویدن آسیب‌پذیرتر شود و نیاز به محافظت داشته باشد؟", "gold_chunk_id": "FAQ-Endo::sec-44", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-45", "query": "آیا امکان پر کردن دندان در همان ویزیت عصب‌کشی وجود دارد یا باید صبر کرد؟", "gold_chunk_id": "FAQ-Endo::sec-45", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-46", "query": "تفاوت پر کردن دندان با کامپوزیت و آمالگام پس از درمان ریشه چیست؟", "gold_chunk_id": "FAQ-Endo::sec-46", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-47", "query": "تأثیر عصب‌کشی بر استحکام و سلامت دندان چیست؟", "gold_chunk_id": "FAQ-Endo::sec-47", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-48", "query": "چه نشانه‌هایی وجود دارد که نشان می‌دهد عصب دندان آسیب دیده و باید عصب‌کشی انجام شود؟", "gold_chunk_id": "FAQ-Endo::sec-48", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-49", "query": "راهکارهای جایگزین در صورت شکست درمان کانال‌های ریشه چیست؟", "gold_chunk_id": "FAQ-Endo::sec-49", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-51", "query": "چه شرایطی باعث می‌شود دندانپزشک نتواند روی یک دندان خاص عصب‌کشی انجام دهد و به جای آن از جراحی ریشه استفاده کند؟", "gold_chunk_id": "FAQ-Endo::sec-51", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-51#2", "query": "دلایل و راه‌حل‌های تیره شدن دندان پس از انجام عصبکشی چیست؟", "gold_chunk_id": "FAQ-Endo::sec-51#2", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-52", "query": "چرا بعد از کشیدن عصب دندان، هنوز درد یا حساسیت دارم و چه زمانی باید نگران باشم؟", "gold_chunk_id": "FAQ-Endo::sec-52", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-53", "query": "چرا استفاده از میکروسکوپ در عصب‌کشی باعث افزایش شانس موفقیت درمان می‌شود؟", "gold_chunk_id": "FAQ-Endo::sec-53", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-54", "query": "چند تا عکس رادیولوژی برای عصب کشی لازم است و چرا قبل از شروع کار عکس می‌گیرند؟", "gold_chunk_id": "FAQ-Endo::sec-54", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-55", "query": "چه عواملی باعث می‌شوند عصبکشی دندان نتیجه ندهد و عفونت دوباره برگردد؟", "gold_chunk_id": "FAQ-Endo::sec-55", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-56", "query": "آیا درمان ریشه می‌تواند شکست بخورد و عفونت دوباره برگردد؟", "gold_chunk_id": "FAQ-Endo::sec-56", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-57", "query": "آیا با انجام درمان ریشه می‌توان از از دست رفتن دندان دارای ترک جلوگیری کرد؟", "gold_chunk_id": "FAQ-Endo::sec-57", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-58", "query": "مدت زمان ممنوعیت خوردن غذا پس از انجام درمان عصب دندان چقدر است؟", "gold_chunk_id": "FAQ-Endo::sec-58", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-59", "query": "آیا بعد از عصب‌کشی ممکن است دهانم بو بدهد؟", "gold_chunk_id": "FAQ-Endo::sec-59", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-61", "query": "آیا دندان عصب‌کشیده‌شده هنوز زنده است و به محرک‌های حرارتی یا فشاری واکنش نشان می‌دهد؟", "gold_chunk_id": "FAQ-Endo::sec-61", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-61#2", "query": "تفاوت جراحی اپیکو با درمان ریشه معمولی چیست و چه زمانی دندانپزشک این عمل را توصیه می‌کند؟", "gold_chunk_id": "FAQ-Endo::sec-61#2", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-62", "query": "شرایطی که در آن‌ها ترمیم ساده کافی است و نیازی به کشیدن عصب دندان نیست چیست؟", "gold_chunk_id": "FAQ-Endo::sec-62", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-63", "query": "آیا انجام عصبکشی برای مادران باردار مجاز و ایمن است؟", "gold_chunk_id": "FAQ-Endo::sec-63", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-64", "query": "امکان انجام عصبکشی برای زنانی که در حال شیر دادن هستند وجود دارد و آیا خطری برای کودک دارد؟", "gold_chunk_id": "FAQ-Endo::sec-64", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-65", "query": "چه نشانه‌هایی وجود دارد که نشان می‌دهد عصب دندان آسیب دیده و نیاز به درمان ریشه است؟", "gold_chunk_id": "FAQ-Endo::sec-65", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-66", "query": "تفاوت‌های بهداشت دهان و دندان بعد از عصب کشی نسبت به قبل از آن چیست؟", "gold_chunk_id": "FAQ-Endo::sec-66", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-67", "query": "آیا انجام درمان ریشه روی دندان‌های عفونی باعث از بین رفتن بوی نامطبوع دهان می‌شود؟", "gold_chunk_id": "FAQ-Endo::sec-67", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-68", "query": "آیا بعد از عصب‌کشی سردرد گرفتن طبیعی است یا نشانه عارضه؟", "gold_chunk_id": "FAQ-Endo::sec-68", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-69", "query": "چطور می‌توان درمان کانال دندان را دوباره انجام داد اگر نتیجه اولیه ناموفق بوده باشد؟", "gold_chunk_id": "FAQ-Endo::sec-69", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-71", "query": "آیا پس از عصب‌کشی باید در نوع غذاهایی که می‌خوریم محدودیت داشته باشیم؟", "gold_chunk_id": "FAQ-Endo::sec-71", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-71#2", "query": "تأثیر سیگار بر بهبودی پس از عصب‌کشی و احتمال شکست درمان چیست؟", "gold_chunk_id": "FAQ-Endo::sec-71#2", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-72", "query": "دلایل عدم موفقیت در درمان عصب دندان و عواملی که منجر به بازگشت عفونت می‌شوند کدامند؟", "gold_chunk_id": "FAQ-Endo::sec-72", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-73", "query": "آیا برای عصبکشی حتماً باید به متخصص اندو رفت یا دندانپزشک عمومی هم می‌تواند این کار را انجام دهد؟", "gold_chunk_id": "FAQ-Endo::sec-73", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-74", "query": "آیا ممکن است در حین انجام عصب‌کشی درد حس کرد و این نشانه چیست؟", "gold_chunk_id": "FAQ-Endo::sec-74", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-75", "query": "چرا عصب‌کشی دندان‌های آسیاب سخت‌تر و طولانی‌تر از دندان‌های پیشین است؟", "gold_chunk_id": "FAQ-Endo::sec-75", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-76", "query": "پیامدهای متوقف کردن درمان عصب در میانه کار چیست؟", "gold_chunk_id": "FAQ-Endo::sec-76", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-77", "query": "تأثیر عصب‌کشی دندان‌های فک بالا بر سلامت سینوس‌ها و احتمال بروز علائم سینوزیتی پس از درمان", "gold_chunk_id": "FAQ-Endo::sec-77", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-78", "query": "آیا داشتن تب یا سرماخوردگی مانعی برای انجام عصبکشی دندان است؟", "gold_chunk_id": "FAQ-Endo::sec-78", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-79", "query": "آیا عصب‌کشی بدون زدن آمپول بی‌حسی ممکن است و آیا درد دارد؟", "gold_chunk_id": "FAQ-Endo::sec-79", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-81", "query": "آیا باید قبل از شروع کار عصب‌کشی مسکن مصرف کنیم؟", "gold_chunk_id": "FAQ-Endo::sec-81", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-81#2", "query": "چند ماه بعد از عصب‌کشی باید برای بررسی نتیجه درمان عکس دندان بگیرم؟", "gold_chunk_id": "FAQ-Endo::sec-81#2", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-82", "query": "آیا انجام عصب‌کشی منجر به شل شدن و لق زدن دندان می‌شود؟", "gold_chunk_id": "FAQ-Endo::sec-82", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-83", "query": "تأثیر درمان عصبی دندان بر امکان انجام کاشت ایمپلنت در آینده چگونه است؟", "gold_chunk_id": "FAQ-Endo::sec-83", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-84", "query": "آیا بهتر است عصبکشی را در زمان پریود انجام ندهم یا مشکلی برای سلامت دندان‌ها ندارد؟", "gold_chunk_id": "FAQ-Endo::sec-84", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-85", "query": "مزایا و وضعیت استفاده از لیزر در عصب‌کشی دندان در ایران", "gold_chunk_id": "FAQ-Endo::sec-85", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-86", "query": "آیا خون آمدن از لثه پس از عصب‌کشی نشانه خطر است یا طبیعی محسوب می‌شود؟", "gold_chunk_id": "FAQ-Endo::sec-86", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-87", "query": "چرا بعد از عصب‌کشی دیگر درد یا حساسیت در دندان احساس نمی‌کنیم؟", "gold_chunk_id": "FAQ-Endo::sec-87", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-88", "query": "تأثیر بیماری دیابت بر موفقیت و عوارض درمان کانال ریشه دندان", "gold_chunk_id": "FAQ-Endo::sec-88", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-89", "query": "تأثیر عصب‌کشی بر وضعیت لثه و راهکارهای درمانی پسروی آن", "gold_chunk_id": "FAQ-Endo::sec-89", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-91", "query": "آیا دندان‌هایی که عصبشان کشیده شده هنوز مستعد پوسیدگی هستند و چه نقشی بهداشت دهان در حفظ آن‌ها دارد؟", "gold_chunk_id": "FAQ-Endo::sec-91", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-91#2", "query": "آیا درمان‌های طبیعی و خانگی می‌توانند جایگزین عصبکشی توسط متخصص شوند؟", "gold_chunk_id": "FAQ-Endo::sec-91#2", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-92", "query": "آیا ابزار فلزی که در حین درمان عصب دندان شکسته است، ممکن است از محل خود جابه‌جا شده و به اندام‌های حیاتی مثل قلب آسیب برساند؟", "gold_chunk_id": "FAQ-Endo::sec-92", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-93", "query": "زمان بسته شدن انتهای ریشه دندان‌ها چقدر است و در صورت پوسیدگی قبل از تکمیل ریشه چه اقدامی لازم است؟", "gold_chunk_id": "FAQ-Endo::sec-93", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-94", "query": "تأثیر درمان اندودنتیک بر تکامل ریشه در دندان‌های جوان و شیری چیست؟", "gold_chunk_id": "FAQ-Endo::sec-94", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-95", "query": "توضیح دهید که اپکسوژنزیس چگونه باعث تکمیل رشد ریشه دندان‌های در حال نمو می‌شود.", "gold_chunk_id": "FAQ-Endo::sec-95", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-96", "query": "چه علائم یا شرایطی نشان می‌دهد که دندان کودک به درمان ریشه نیاز دارد؟", "gold_chunk_id": "FAQ-Endo::sec-96", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-97", "query": "روش درمانی برای دندان‌هایی که پالپ آن‌ها آسیب دیده و انتهای ریشه هنوز بسته نشده چیست؟", "gold_chunk_id": "FAQ-Endo::sec-97", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-98", "query": "چرا سوراخ انتهای ریشه دندان بسته نمی‌شود و چه درمانی برای آن لازم است؟", "gold_chunk_id": "FAQ-Endo::sec-98", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-99", "query": "علل دیر رشد کردن ریشه دندان در بچه‌ها و راهکارهای درمانی آن چیست؟", "gold_chunk_id": "FAQ-Endo::sec-99", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Endo::sec-111", "query": "مدیریت علائم گوارشی و تهوع در حین انجام درمان کانال دندانی", "gold_chunk_id": "FAQ-Endo::sec-111", "topic": "FAQ-Endo"}
+{"chunk_id": "FAQ-Diagnostics::sec-1", "query": "لیست داروهای ممنوعه برای دندان‌درمانی در دوران حاملگی", "gold_chunk_id": "FAQ-Diagnostics::sec-1", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-2", "query": "ممنوعیت‌های دارویی برای مادران در حال شیردهی از نظر دندانپزشکی چیست؟", "gold_chunk_id": "FAQ-Diagnostics::sec-2", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-3", "query": "تأثیر مصرف داروهای ضدانعقاد بر جراحی کشیدن دندان و نیاز به قطع دارو", "gold_chunk_id": "FAQ-Diagnostics::sec-3", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-4", "query": "نکات ایمنی و مراقبتی برای بیماران مبتلا به هیپرتانسیون در هنگام درمان دندان", "gold_chunk_id": "FAQ-Diagnostics::sec-4", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-5", "query": "توصیه‌های ایمنی برای بیماران با سابقه سکته در مطب دندانپزشکی", "gold_chunk_id": "FAQ-Diagnostics::sec-5", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-6", "query": "آیا مصرف‌کنندگان وارفارین برای درمان دندان نیاز به آزمایش INR دارند؟", "gold_chunk_id": "FAQ-Diagnostics::sec-6", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-7", "query": "اگر بیماری ریوی انسدادی (COPD) داشته باشم و از تئوفیلین استفاده کنم، چه هشدارهایی باید به دندانپزشکم بدهم؟", "gold_chunk_id": "FAQ-Diagnostics::sec-7", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-8", "query": "بیمار مبتلا به آسم هنگام ویزیت دندانپزشکی باید چه نکاتی را در نظر بگیرد؟", "gold_chunk_id": "FAQ-Diagnostics::sec-8", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-9", "query": "امکان انجام درمان‌های دندانی برای بیماران دارای مشکلات قلبی، تنفسی یا عفونی مزمن در این کلینیک وجود دارد؟", "gold_chunk_id": "FAQ-Diagnostics::sec-9", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-45", "query": "دلیل‌های تغییر رنگ و ایجاد لکه روی مینای دندان و راهکارهای درمانی آن", "gold_chunk_id": "FAQ-Diagnostics::sec-45", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-46", "query": "آیا بیماران با اختلالات غده تیروئید مجاز به انجام جراحی‌های دهان و دندان هستند و چه نکاتی درباره مصرف دارو باید رعایت شود؟", "gold_chunk_id": "FAQ-Diagnostics::sec-46", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-47", "query": "آیا لازم است وضعیت HIV خود را قبل از ویزیت دندانپزشکی اعلام کنم؟", "gold_chunk_id": "FAQ-Diagnostics::sec-47", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-48", "query": "تأثیر بازگشت اسید معده به دهان بر سلامت و استحکام دندان‌ها", "gold_chunk_id": "FAQ-Diagnostics::sec-48", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-49", "query": "آیا بیماری‌های دستگاه گوارش مانع از انجام کارهای دندانپزشکی هستند و چه عوارضی برای دندان‌ها دارند؟", "gold_chunk_id": "FAQ-Diagnostics::sec-49", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-51", "query": "آیا سکس دهانی خطر ابتلا به بیماری‌های دهانی و ویروسی را افزایش می‌دهد؟", "gold_chunk_id": "FAQ-Diagnostics::sec-51", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-51#2", "query": "چرا باید مصرف مواد روان‌گردان را قبل از معاینه دندانپزشکی به پزشک بگوییم؟", "gold_chunk_id": "FAQ-Diagnostics::sec-51#2", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-52", "query": "آسیب‌های ناشی از تریاک به مینای دندان و سلامت لثه", "gold_chunk_id": "FAQ-Diagnostics::sec-52", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-53", "query": "آیا بیماران در حال دریافت شیمی‌درمانی می‌توانند به دندانپزشک مراجعه کنند و چه خطراتی برای آن‌ها وجود دارد؟", "gold_chunk_id": "FAQ-Diagnostics::sec-53", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-54", "query": "آیا بیماران دیالیزی می‌توانند عصب‌کشی کنند و چه زمانی از نظر ایمنی مناسب است؟", "gold_chunk_id": "FAQ-Diagnostics::sec-54", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-55", "query": "محدودیت‌ها و احتیاط‌های لازم برای معالجه دندان در بیماران پیوند کلیه چیست؟", "gold_chunk_id": "FAQ-Diagnostics::sec-55", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-56", "query": "ویژگی‌های بالینی و نکات مراقبتی ویژه در درمان دندانپزشکی کودکان و بزرگسالان مبتلا به سندرم داون", "gold_chunk_id": "FAQ-Diagnostics::sec-56", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-57", "query": "اثرات عوارض جانبی داروهای روان‌پزشکی بر دهان و دندان و نحوه تعامل آن‌ها با بی‌حسی موضعی", "gold_chunk_id": "FAQ-Diagnostics::sec-57", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-58", "query": "آیا مصرف داروهای هورمونی و استروئیدها می‌تواند باعث شکست ایمپلنت یا مشکلات لثوی شود؟", "gold_chunk_id": "FAQ-Diagnostics::sec-58", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-59", "query": "آیا جراحی‌های دهانی و دندان در بیماران مبتلا به سرطان که تحت رادیوتراپی قرار دارند مجاز است یا خیر؟", "gold_chunk_id": "FAQ-Diagnostics::sec-59", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-61", "query": "آیا افراد مبتلا به اختلالات نورولوژیک مانند پارکینسون یا آلزایمر می‌توانند با خیال راحت تحت درمان دندانپزشکی قرار بگیرند و چه نکاتی باید رعایت شود؟", "gold_chunk_id": "FAQ-Diagnostics::sec-61", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-61#2", "query": "شرایط انجام جراحی ایمپلنت در بیماران دارای سابقه سکته مغزی اخیر چیست؟", "gold_chunk_id": "FAQ-Diagnostics::sec-61#2", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-62", "query": "تجویز آموکسی‌سیلین پیش از درمان‌های دندانی برای بیماران با ریسک بالای عفونت سیستمیک (مانند مشکلات قلبی) چه هدفی دارد و چرا نباید خودسرانه مصرف شود؟", "gold_chunk_id": "FAQ-Diagnostics::sec-62", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-63", "query": "آیا مصرف مشروبات الکلی مانند شراب می‌تواند با بی‌حسی یا داروهای دندانپزشکی تداخل داشته باشد و باید به پزشک گفت؟", "gold_chunk_id": "FAQ-Diagnostics::sec-63", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-64", "query": "آیا بیماران مبتلا به بیماری‌های کبدی مانند سیروز یا کبد چرب، محدودیت خاصی برای دریافت بی‌حسی و انجام جراحی‌های دندانی دارند؟", "gold_chunk_id": "FAQ-Diagnostics::sec-64", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-65", "query": "آیا افراد با اختلال در انعقاد خون یا مصرف‌کنندگان رقیق‌کننده‌های خون می‌توانند بدون عارضه جراحی دندان یا کاشت ایمپلنت انجام دهند؟", "gold_chunk_id": "FAQ-Diagnostics::sec-65", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-66", "query": "چه معیارهایی باعث می‌شود دندانپزشک تصمیم بگیرد که یک دندان را حفظ کند یا آن را بکشد؟", "gold_chunk_id": "FAQ-Diagnostics::sec-66", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-67", "query": "چه عواملی باعث زدن آفت در دهان می‌شوند و روش‌های درمان آن کدامند؟", "gold_chunk_id": "FAQ-Diagnostics::sec-67", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-68", "query": "آیا تغییر رنگ زبان به سفیدی نشانه بیماری خاصی است و چه زمانی باید نگران شد؟", "gold_chunk_id": "FAQ-Diagnostics::sec-68", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-69", "query": "چرا سطح زبانم پر از خط و شیار شده و آیا این نشانه بیماری خاصی است؟", "gold_chunk_id": "FAQ-Diagnostics::sec-69", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-71", "query": "علت‌های احتمالی قرمز شدن و سوزش مداوم زبان کدامند؟", "gold_chunk_id": "FAQ-Diagnostics::sec-71", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Diagnostics::sec-71#2", "query": "روش‌های خانگی و تمرینی برای کاهش درد و بهبود عملکرد مفصل فک چیست؟", "gold_chunk_id": "FAQ-Diagnostics::sec-71#2", "topic": "FAQ-Diagnostics"}
+{"chunk_id": "FAQ-Prosthesis::sec-1", "query": "توضیح دهید که پل یا بریج دندان چگونه با استفاده از دندان‌های مجاور جایگزین دندان از دست رفته می‌شود.", "gold_chunk_id": "FAQ-Prosthesis::sec-1", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-2", "query": "چگونه می‌توان عمر پل دندان را افزایش داد و چه مراقبت‌هایی لازم است؟", "gold_chunk_id": "FAQ-Prosthesis::sec-2", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-3", "query": "کاربرد و تعریف قطعه فلزی یا سرامیکی که در کانال دندان عصب‌کشی شده برای تثبیت تاج قرار می‌گیرد چیست؟", "gold_chunk_id": "FAQ-Prosthesis::sec-3", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-4", "query": "اگر کرون دندانی‌ام بدون ضربه از جای خود خارج شد، دلیل آن چیست و آیا قابل نصب مجدد است؟", "gold_chunk_id": "FAQ-Prosthesis::sec-4", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-5", "query": "آیا بلعیدن روکش دندان باعث آسیب به معده یا روده می‌شود؟", "gold_chunk_id": "FAQ-Prosthesis::sec-5", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-6", "query": "توضیح دهید ونیرهای سرامیکی نازک روی دندان چه کاربردی دارند؟", "gold_chunk_id": "FAQ-Prosthesis::sec-6", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-7", "query": "روش‌های بازسازی و رفع آسیب در روکش‌های سرامیکی که دچار ترک یا شکستگی جزئی شده‌اند کدامند؟", "gold_chunk_id": "FAQ-Prosthesis::sec-7", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-8", "query": "ویژگی‌های فیزیکی و کاربرد ماده زیرکونیا در ساخت روکش دندان چیست؟", "gold_chunk_id": "FAQ-Prosthesis::sec-8", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-1#2", "query": "آیا برای ترمیم دندان آسیب‌دیده از روکش استفاده می‌شود و شرایط آن چیست؟", "gold_chunk_id": "FAQ-Prosthesis::sec-1#2", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-44", "query": "تفاوت و مزایای پروتزهای ثابت در مقابل متحرک چیست؟", "gold_chunk_id": "FAQ-Prosthesis::sec-44", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-45", "query": "کدام روش برای جایگزینی دندان بهتر است: بازسازی با روکش یا کاشت پیچ در استخوان؟", "gold_chunk_id": "FAQ-Prosthesis::sec-45", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-46", "query": "مراحل ساخت تاج و روکش در آزمایشگاه دندانپزشکی (البراتوار) چگونه است؟", "gold_chunk_id": "FAQ-Prosthesis::sec-46", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-47", "query": "چند سال می‌توان از روکش یا بریج دندانی استفاده کرد؟", "gold_chunk_id": "FAQ-Prosthesis::sec-47", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-48", "query": "چه کسانی واجد شرایط دریافت پروتز دندانی هستند؟", "gold_chunk_id": "FAQ-Prosthesis::sec-48", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-41", "query": "مدت زمان ماندگاری و زمان مناسب برای جایگزینی روکش‌ها و بریج‌های دندانی چقدر است؟", "gold_chunk_id": "FAQ-Prosthesis::sec-41", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-51", "query": "آیا هنگام ساخت روکش یا بعد از گذاشتن آن درد می‌بینیم؟", "gold_chunk_id": "FAQ-Prosthesis::sec-51", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-51#2", "query": "توضیح دهید پروتز‌های دندانی چه هستند و چه تفاوتی بین انواع ثابت و متحرک آن‌ها وجود دارد؟", "gold_chunk_id": "FAQ-Prosthesis::sec-51#2", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-52", "query": "آیا جایگزین‌های مصنوعی دندان از نظر رنگ و فرم با دندان‌های اصلی تفاوت دارند؟", "gold_chunk_id": "FAQ-Prosthesis::sec-52", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-53", "query": "روش‌های اصلاح عدم هماهنگی رنگی بین روکش مصنوعی و دندان‌های طبیعی مجاور چیست؟", "gold_chunk_id": "FAQ-Prosthesis::sec-53", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-54", "query": "آیا استفاده از بریج یا روکش می‌تواند منجر به ایجاد بوی نامطبوع در دهان شود؟", "gold_chunk_id": "FAQ-Prosthesis::sec-54", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-55", "query": "آیا استفاده از دندان مصنوعی یا روکش باعث می‌شود که چهره من تغییر کند؟", "gold_chunk_id": "FAQ-Prosthesis::sec-55", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-56", "query": "بعد از قالب‌گیری، چند روز طول می‌کشد تا روکش یا بریج من در البراتوار ساخته و تحویل داده شود؟", "gold_chunk_id": "FAQ-Prosthesis::sec-56", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-57", "query": "آیا می‌توان برای دندان‌های جلوی دهان روکش یا بریج ساخت و آیا از نظر زیبایی مشکلی ندارد؟", "gold_chunk_id": "FAQ-Prosthesis::sec-57", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-58", "query": "آیا قرار دادن بریج یا روکش روی دندان، باعث می‌شود دندان‌های کنار آن پوسیده شوند؟", "gold_chunk_id": "FAQ-Prosthesis::sec-58", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-51#3", "query": "آیا دندان زیر بریج یا روکش می‌تواند کرم بزند؟", "gold_chunk_id": "FAQ-Prosthesis::sec-51#3", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-61", "query": "آیا گذاشتن دندان مصنوعی یا بریج باعث می‌شود که کلمات را به درستی تلفظ نکنیم؟", "gold_chunk_id": "FAQ-Prosthesis::sec-61", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-61#2", "query": "علت درد و حساسیت دندان‌های دارای روکش یا بریج در برابر تغییرات دمایی چیست؟", "gold_chunk_id": "FAQ-Prosthesis::sec-61#2", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-62", "query": "چرا ممکن است رنگ کرونه یا روکش دندانم بعد از مدتی تیره یا زرد شود؟", "gold_chunk_id": "FAQ-Prosthesis::sec-62", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-63", "query": "فاصله زمانی مناسب برای ویزیت مجدد جهت بررسی وضعیت روکش‌های دندانی چقدر است؟", "gold_chunk_id": "FAQ-Prosthesis::sec-63", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-64", "query": "آیا عفونت یا مشکلات لثه مانع از انجام روکش دندان می‌شود و چه زمانی باید به جای روکش از ایمپلنت استفاده کرد؟", "gold_chunk_id": "FAQ-Prosthesis::sec-64", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-65", "query": "آیا گذاشتن بریج یا پروتز متحرک باعث ریزش استخوان فک می‌شود یا از آن جلوگیری می‌کند؟", "gold_chunk_id": "FAQ-Prosthesis::sec-65", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-66", "query": "آیا لاغر شدن یا چاق شدن باعث می‌شود روکش یا بریج دندان من دیگر مناسب نباشد؟", "gold_chunk_id": "FAQ-Prosthesis::sec-66", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-67", "query": "آیا استفاده از روکش یا بریج می‌تواند منجر به عفونت لثه یا دندان شود؟", "gold_chunk_id": "FAQ-Prosthesis::sec-67", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-68", "query": "آیا روکش مصنوعی در برابر فشارهای جویدن به اندازه دندان اصلی دوام می‌آورد؟", "gold_chunk_id": "FAQ-Prosthesis::sec-68", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-61#3", "query": "چه نشانه‌هایی نشان می‌دهد که روکش یا پل دندان به درستی نصب شده و از نظر زیبایی و عملکردی مشکلی ندارد؟", "gold_chunk_id": "FAQ-Prosthesis::sec-61#3", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-71", "query": "علت جابه‌جایی یا افتادن دندان مصنوعی در حین گفتار و راهکار درمان آن چیست؟", "gold_chunk_id": "FAQ-Prosthesis::sec-71", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-71#2", "query": "برای فردی که به دلیل مدت زیاد بدون دندان، استخوان و لثه‌اش تحلیل رفته، کدام روش جایگزینی (ایمپلنت یا پروتز) مناسب‌تر است؟", "gold_chunk_id": "FAQ-Prosthesis::sec-71#2", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-72", "query": "تأثیر نصب بریج و روکش روی حس طعم غذاها در دهان چیست؟", "gold_chunk_id": "FAQ-Prosthesis::sec-72", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-73", "query": "تأثیر خشکی دهان بر ثبات و سلامت پروتز دندان چیست و راهکارهای درمانی آن کدامند؟", "gold_chunk_id": "FAQ-Prosthesis::sec-73", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-74", "query": "فاصله زمانی مناسب بین کشیدن دندان و شروع فرآیند ساخت دندان مصنوعی چند هفته است؟", "gold_chunk_id": "FAQ-Prosthesis::sec-74", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-75", "query": "آیا روکش‌های دندانی از نظر ظاهری بلندتر یا برجسته‌تر از دندان‌های طبیعی اطرافشان هستند؟", "gold_chunk_id": "FAQ-Prosthesis::sec-75", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-76", "query": "مدت زمان لازم برای سازگاری با پروتز کامل یا جزئی چقدر است؟", "gold_chunk_id": "FAQ-Prosthesis::sec-76", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-77", "query": "راهکارهای کاهش درد و زخم لثه پس از قرار دادن دندان مصنوعی جدید چیست؟", "gold_chunk_id": "FAQ-Prosthesis::sec-77", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Prosthesis::sec-78", "query": "توصیه‌های پزشکی برای پاکسازی و ضدعفونی پروتز دندانی چیست؟", "gold_chunk_id": "FAQ-Prosthesis::sec-78", "topic": "FAQ-Prosthesis"}
+{"chunk_id": "FAQ-Restorative::sec-1", "query": "روش جلوگیری از پوسیدگی در شیارهای عمیق دندان‌های آسیا چیست؟", "gold_chunk_id": "FAQ-Restorative::sec-1", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-2", "query": "تعریف روش سفیدسازی دندان‌ها با نام بلیچینگ", "gold_chunk_id": "FAQ-Restorative::sec-2", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-3", "query": "راه‌حل‌های پزشکی برای رفع شکاف و فاصله موجود در دندان‌های جلو کدامند؟", "gold_chunk_id": "FAQ-Restorative::sec-3", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-4", "query": "کاربرد و ساختار پست در ترمیم دندان‌های عصب‌کشی شده چیست؟", "gold_chunk_id": "FAQ-Restorative::sec-4", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-5", "query": "چه عواملی باعث می‌شوند رنگ طبیعی دندان از بین برود یا لکه‌دار شود؟", "gold_chunk_id": "FAQ-Restorative::sec-5", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-6", "query": "روش‌های پزشکی و خانگی برای بازگرداندن رنگ طبیعی به دندان‌های تیره چیست؟", "gold_chunk_id": "FAQ-Restorative::sec-6", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-7", "query": "ویژگی‌ها و کاربرد مواد کامپوزیتی در پر کردن دندان‌ها", "gold_chunk_id": "FAQ-Restorative::sec-7", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-8", "query": "توضیح دهید ماده‌ای که از ترکیب جیوه و نقره ساخته می‌شود و برای پر کردن دندان استفاده می‌گردد چه نام دارد و چه ویژگی‌هایی دارد؟", "gold_chunk_id": "FAQ-Restorative::sec-8", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-2#2", "query": "تفاوت آمالگام و کامپوزیت در چه مواردی است و کدام یک برای من مناسب‌تر است؟", "gold_chunk_id": "FAQ-Restorative::sec-2#2", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-11", "query": "علت درد و حساسیت دندان در برابر تغییرات دما و طعم‌های شیرین چیست و چه درمانی دارد؟", "gold_chunk_id": "FAQ-Restorative::sec-11", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-63", "query": "آیا مصرف‌کنندگان مواد مخدر مجاز به انجام پروسه سفیدسازی یا نصب روکش‌های کامپوزیتی هستند؟", "gold_chunk_id": "FAQ-Restorative::sec-63", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-64", "query": "آیا استفاده مداوم از خمیردندان‌های ساینده برای سفید کردن دندان‌ها بی‌خطر است یا باعث زرد شدن و حساسیت می‌شود؟", "gold_chunk_id": "FAQ-Restorative::sec-64", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-65", "query": "بعد از رستوریشن دندان، چرا غذا در فضای بین دندان‌ها گیر می‌کند و راه حل آن چیست؟", "gold_chunk_id": "FAQ-Restorative::sec-65", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-66", "query": "دلایل تیره شدن مواد ترمیمی دندان و تفاوت آن با پوسیدگی چیست؟", "gold_chunk_id": "FAQ-Restorative::sec-66", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-67", "query": "چقدر طول می‌کشه تا یه دندون پوسیده پر بشه؟", "gold_chunk_id": "FAQ-Restorative::sec-67", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-68", "query": "بعد از اینکه دندونمو پر کردن، کی می‌تونم باهاش چیز سفت بجویم؟ فرق بین صبر کردن برای کامپوزیت و آمالگام چیه؟", "gold_chunk_id": "FAQ-Restorative::sec-68", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-62", "query": "چه دلایلی باعث می‌شوند کامپوزیت یا آمالگام دندان به سرعت از جای خود خارج شود؟", "gold_chunk_id": "FAQ-Restorative::sec-62", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-71", "query": "چه تفاوتی بین فیلینگ موقتی و دائمی وجود دارد و چرا از ترمیم گذرا استفاده می‌شود؟", "gold_chunk_id": "FAQ-Restorative::sec-71", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-71#2", "query": "آیا پس از انجام کار پرکردن دندان، مصرف دارو الزامی است؟", "gold_chunk_id": "FAQ-Restorative::sec-71#2", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-72", "query": "روش‌های درمانی برای ترمیم دندان‌های ترک خورده یا شکسته چیست؟", "gold_chunk_id": "FAQ-Restorative::sec-72", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-73", "query": "علت درد و حساسیت به فشار در دندان پر شده پس از درمان چیست؟", "gold_chunk_id": "FAQ-Restorative::sec-73", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-74", "query": "نقش چسب‌های تخصصی در فرآیند پر کردن و اتصال مواد به دندان چیست؟", "gold_chunk_id": "FAQ-Restorative::sec-74", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-75", "query": "دلیل ماندن مزه مواد دندانپزشکی در دهان پس از درمان چیست و چه زمانی باید به پزشک مراجعه کرد؟", "gold_chunk_id": "FAQ-Restorative::sec-75", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-76", "query": "روش ترمیم شکستگی و لب‌پریدگی دندان‌های قدامی برای حفظ زیبایی طبیعی چطور است؟", "gold_chunk_id": "FAQ-Restorative::sec-76", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-77", "query": "چرا باید دندان‌های شیری پوسیده را پر کرد و چه تأثیری بر دندان‌های دائمی دارد؟", "gold_chunk_id": "FAQ-Restorative::sec-77", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-78", "query": "دلایل و عوارض گیر کردن غذا در فضای بین دندان‌های ترمیم شده چیست؟", "gold_chunk_id": "FAQ-Restorative::sec-78", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-72#2", "query": "آیا لیزر جایگزین مواد پرکننده در ترمیم دندان است یا فقط برای پاکسازی پوسیدگی استفاده می‌شود؟", "gold_chunk_id": "FAQ-Restorative::sec-72#2", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-81", "query": "دلیل احساس شل شدن یا لق بودن دندان بعد از کار پرکردگی چیست و آیا جای نگرانی دارد؟", "gold_chunk_id": "FAQ-Restorative::sec-81", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-81#2", "query": "چند سال طول می‌کشد تا پر کردن سفید دندان خراب شود و چه عواملی باعث افتادن آن می‌شود؟", "gold_chunk_id": "FAQ-Restorative::sec-81#2", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-82", "query": "آیا شکستگی یا ترک در مواد کامپوزیت یا آمالگام زیر سطح دندان باعث عفونت می‌شود و چه زمانی باید ترمیم را عوض کرد؟", "gold_chunk_id": "FAQ-Restorative::sec-82", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-83", "query": "آیا بعد از پر کردن دندان باید حتماً عکس رادیولوژی برای کنترل وضعیت دندان بگیرم؟", "gold_chunk_id": "FAQ-Restorative::sec-83", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-84", "query": "آیا می‌شود چند تا دندان را با هم پر کرد و سقف تعدادشان چقدر است؟", "gold_chunk_id": "FAQ-Restorative::sec-84", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-85", "query": "آیا با وجود تزریق بی‌حسی، بیمار در حین انجام کار پر کردن دندان درد می‌بیند؟", "gold_chunk_id": "FAQ-Restorative::sec-85", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-86", "query": "چه کارهایی باعث می‌شود پر کردن دندانی که انجام داده‌ام زودتر خراب نشود؟", "gold_chunk_id": "FAQ-Restorative::sec-86", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-87", "query": "تفاوت‌های فنی در درمان و مواد مصرفی برای دندان‌هایی که دچار شکستگی سطحی شده‌اند در مقایسه با پوسیدگی عمقی چیست؟", "gold_chunk_id": "FAQ-Restorative::sec-87", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-88", "query": "آیا در تمام مراحل پر کردن دندان از بی‌حسی استفاده می‌شود یا فقط در شرایط خاصی؟", "gold_chunk_id": "FAQ-Restorative::sec-88", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-82#2", "query": "زمان مناسب برای مسواک زدن پس از انجام کار پرکردگی دندان چه زمانی است؟", "gold_chunk_id": "FAQ-Restorative::sec-82#2", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-21", "query": "چقدر طول می‌کشد تا اثر بی‌حسی تزریق شده برای پر کردن دندان از بین برود و آیا خطرناک است؟", "gold_chunk_id": "FAQ-Restorative::sec-21", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-21#2", "query": "آیا بی‌دردی پس از شکستن یا افتادن فیلینگ (پرکردگی) یعنی نیازی به ویزیت مجدد نیست؟", "gold_chunk_id": "FAQ-Restorative::sec-21#2", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-22", "query": "چرا بعد از ریزین یا عایق‌کاری دندان، دهانم بو می‌دهد؟", "gold_chunk_id": "FAQ-Restorative::sec-22", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-23", "query": "آیا باید برای لبپریدگی دندان جدید کودک به دندانپزشک مراجعه کرد و چه درمانی انجام می‌شود؟", "gold_chunk_id": "FAQ-Restorative::sec-23", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-24", "query": "آیا چسب‌های ترمیمی خانگی جایگزین مناسبی برای پر کردن دائمی دندان هستند؟", "gold_chunk_id": "FAQ-Restorative::sec-24", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-25", "query": "چطور می‌شود رنگ رزین یا کامپوزیت دندان جلو را طوری تنظیم کرد که با دندان‌های طبیعی تفاوتی نداشته باشد؟", "gold_chunk_id": "FAQ-Restorative::sec-25", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-26", "query": "علت درد و ناراحتی در ناحیه لثه پس از انجام کار پرکردگی چیست؟", "gold_chunk_id": "FAQ-Restorative::sec-26", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-27", "query": "چه زمانی باید دندان عقل را عصب‌کشی و پر کرد و چه زمانی باید آن را بیرون کشید؟", "gold_chunk_id": "FAQ-Restorative::sec-27", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-28", "query": "چه عواملی باعث می‌شوند رستوریشن‌های سفید دندان با گذشت زمان کدر یا زرد شوند؟", "gold_chunk_id": "FAQ-Restorative::sec-28", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-22#2", "query": "دلیل مورمور شدن یا بی‌حسی موقت در ناحیه لب پس از انجام کارهای رستوراتیو (ترمیم) چیست و چه زمانی باید نگران شد؟", "gold_chunk_id": "FAQ-Restorative::sec-22#2", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-111", "query": "چند سال طول می‌کشد تا پر کردن دندان خراب شود و چه نشانه‌هایی نشان می‌دهد که باید ترمیم را عوض کرد؟", "gold_chunk_id": "FAQ-Restorative::sec-111", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-111#2", "query": "علت بازگشت درد در دندان‌هایی که قبلاً کامپوزیت یا آمالگام شده‌اند چیست؟", "gold_chunk_id": "FAQ-Restorative::sec-111#2", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-112", "query": "چرا بعد از روتال یا پر کردن، رنگی تیره در کنار فیلینگ دیده می‌شود و آیا باید نگران پوسیدگی مجدد باشم؟", "gold_chunk_id": "FAQ-Restorative::sec-112", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-113", "query": "چرا نباید ترک پرکردگی را بدون درد نادیده گرفت؟", "gold_chunk_id": "FAQ-Restorative::sec-113", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-114", "query": "آیا استفاده از کیت‌های پر کردن دندان در منزل برای درمان دائمی پوسیدگی ایمن است یا باید به کلینیک مراجعه کرد؟", "gold_chunk_id": "FAQ-Restorative::sec-114", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-115", "query": "آیا وجود جیوه در پرکردگی‌های قدیمی دندان باعث آسیب به بدن می‌شود؟", "gold_chunk_id": "FAQ-Restorative::sec-115", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-116", "query": "چرا بعد از پر کردن دندان با کامپوزیت دوباره پوسیدگی ایجاد می‌شود؟", "gold_chunk_id": "FAQ-Restorative::sec-116", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-117", "query": "آیا ترک‌های ظریف در دندان که هیچ علامت درد ندارند، نیاز به مداخله پزشکی دارند یا می‌توان آن‌ها را نادیده گرفت؟", "gold_chunk_id": "FAQ-Restorative::sec-117", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-118", "query": "علت درد و خشکی مفصل فک پس از انجام کارهای دندانپزشکی مانند پر کردن چیست؟", "gold_chunk_id": "FAQ-Restorative::sec-118", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-112#2", "query": "چرا نباید پوسیدگی دندان شیری را نادیده گرفت و چه خطراتی برای دندان‌های بزرگسالی دارد؟", "gold_chunk_id": "FAQ-Restorative::sec-112#2", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-111#3", "query": "مدت زمان ممنوعیت جویدن و خوردن غذا پس از انجام کار ترمیمی دندان چقدر است؟", "gold_chunk_id": "FAQ-Restorative::sec-111#3", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-111#4", "query": "آیا دندان‌هایی که بخش زیادی از آن‌ها تخریب شده است قابل بازسازی هستند یا حتماً باید حذف شوند؟", "gold_chunk_id": "FAQ-Restorative::sec-111#4", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-112#3", "query": "روش‌های اصلاح عدم تطابق رنگ کامپوزیت یا رزین با دندان طبیعی چیست؟", "gold_chunk_id": "FAQ-Restorative::sec-112#3", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-113#2", "query": "زمان مناسب شروع استفاده از نخ دندان پس از انجام کار پرکردگی دندان چه زمانی است؟", "gold_chunk_id": "FAQ-Restorative::sec-113#2", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-114#2", "query": "چرا دندانم که قبلاً پر شده بود حالا درد نبضدار دارد و آیا این یعنی باید عصبکشی شود؟", "gold_chunk_id": "FAQ-Restorative::sec-114#2", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-115#2", "query": "آیا جایگزینی رستوراسیون سالم فقط به منظور بهبود ظاهر مجاز است؟", "gold_chunk_id": "FAQ-Restorative::sec-115#2", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-111#5", "query": "بعد از اینکه دندونم رو پر کردن یه کم درد دارم، آیا این عادیه یا باید بریم دکتر؟", "gold_chunk_id": "FAQ-Restorative::sec-111#5", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-117#2", "query": "چرا بعد از پر کردن، دندونم موقع خواب درد می‌کنه؟", "gold_chunk_id": "FAQ-Restorative::sec-117#2", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-118#2", "query": "چند بار می‌توان روی یک دندان ترمیم انجام داد و آیا این کار باعث ضعیف شدن آن می‌شود؟", "gold_chunk_id": "FAQ-Restorative::sec-118#2", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-112#4", "query": "چگونه می‌توان تشخیص داد که ترمیم یا فیلینگ دندان آسیب دیده و نیاز به بازسازی دارد؟", "gold_chunk_id": "FAQ-Restorative::sec-112#4", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-121", "query": "آیا امکان نجات دندان پر شده‌ای که ترک خورده یا شکسته وجود دارد؟", "gold_chunk_id": "FAQ-Restorative::sec-121", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-121#2", "query": "چه عواملی باعث می‌شوند سطح ترمیم دندانی درخشان یا کدر به نظر برسد؟", "gold_chunk_id": "FAQ-Restorative::sec-121#2", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Restorative::sec-122", "query": "آیا دندان شیری پوسیده با فضای خالی بین دندانی نیاز به پر کردن دارد؟", "gold_chunk_id": "FAQ-Restorative::sec-122", "topic": "FAQ-Restorative"}
+{"chunk_id": "FAQ-Clinic2::sec-1", "query": "چطور می‌توانم از مبلغ دقیق درمان دندان خود مطلع شوم؟", "gold_chunk_id": "FAQ-Clinic2::sec-1", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-2", "query": "شرایط دریافت خدمات دندانپزشکی بدون هزینه برای جانبازان در کلینیک شکری چگونه است؟", "gold_chunk_id": "FAQ-Clinic2::sec-2", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-3", "query": "آیا برای اصلاح پرکردن یا برداشتن نخ دندان باید از قبل نوبت بگیرم یا می‌توانم مستقیم بروم؟", "gold_chunk_id": "FAQ-Clinic2::sec-3", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-4", "query": "چگونه می‌توانم زمان ویزیت یا درمان خود را به روز دیگری منتقل کنم؟", "gold_chunk_id": "FAQ-Clinic2::sec-4", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-9", "query": "کدام بیمه‌ها در کلینیک شما پذیرفته می‌شوند؟", "gold_chunk_id": "FAQ-Clinic2::sec-9", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-6", "query": "برنامه زمانی پذیرش بیماران در کلینیک دندانپزشکی شهید شکری به چه صورت است؟", "gold_chunk_id": "FAQ-Clinic2::sec-6", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-1#2", "query": "موقعیت جغرافیایی مرکز درمانی شهید شکری در خیابان خوارزمی تهران", "gold_chunk_id": "FAQ-Clinic2::sec-1#2", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-1#3", "query": "شرایط پوشش خدمات درمانی دندانی در بیمه‌های تکمیلی چگونه است؟", "gold_chunk_id": "FAQ-Clinic2::sec-1#3", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-9#2", "query": "چطور می‌توانم بفهمم دندانپزشک در چه روزهایی در مطب حاضر است؟", "gold_chunk_id": "FAQ-Clinic2::sec-9#2", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-11", "query": "چطور می‌توانم با پشتیبانی کلینیک شکری تماس بگیرم؟", "gold_chunk_id": "FAQ-Clinic2::sec-11", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-11#2", "query": "آیا امکان استفاده از خدمات بیمه در این کلینیک وجود دارد؟", "gold_chunk_id": "FAQ-Clinic2::sec-11#2", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-12", "query": "چه بیمه‌هایی در بیمارستان دندانپزشکی شهید شکری پذیرفته می‌شوند؟", "gold_chunk_id": "FAQ-Clinic2::sec-12", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-13", "query": "مراحل ساخت روکش و دندان مصنوعی در کجا انجام می‌شود؟", "gold_chunk_id": "FAQ-Clinic2::sec-13", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-14", "query": "مدت زمان لازم برای ساخت و تحویل روکش دندان در لابراتوار چقدر است؟", "gold_chunk_id": "FAQ-Clinic2::sec-14", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-16", "query": "نحوه عملکرد دستگاه اتوکلاو برای ضدعفونی ابزارهای دندانپزشکی چگونه است؟", "gold_chunk_id": "FAQ-Clinic2::sec-16", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-11#3", "query": "آیا برای معاینه در کلینیک شهید شکری باید پول بدهیم؟", "gold_chunk_id": "FAQ-Clinic2::sec-11#3", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-11#4", "query": "آیا تفاوتی بین دندانپزشکان مجموعه وجود دارد یا همه یکسان هستند؟", "gold_chunk_id": "FAQ-Clinic2::sec-11#4", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-19", "query": "روش تحویل تصاویر رادیوگرافی بیمار و امکان دریافت فایل دیجیتال آن‌ها چیست؟", "gold_chunk_id": "FAQ-Clinic2::sec-19", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-21", "query": "آیا امکان گرفتن نوبت آنلاین وجود دارد یا باید حضوری مراجعه کنیم؟", "gold_chunk_id": "FAQ-Clinic2::sec-21", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-21#2", "query": "روش رزرو وقت با انتخاب دندانپزشک مورد نظر چیست؟", "gold_chunk_id": "FAQ-Clinic2::sec-21#2", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-22", "query": "چه زمانی باید از دندانپزشک عمومی به متخصص ارجاع داده شوم؟", "gold_chunk_id": "FAQ-Clinic2::sec-22", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-23", "query": "از چه راهی و در چه ساعت‌هایی می‌توان برای معاینه دندانپزشکی وقت گرفت؟", "gold_chunk_id": "FAQ-Clinic2::sec-23", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-24", "query": "آیا خدماتی مثل سفیدکردن دندان و روکش‌های زیبایی تحت پوشش بیمه هستند؟", "gold_chunk_id": "FAQ-Clinic2::sec-24", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-29", "query": "چگونه می‌توان با استفاده از اعداد ۱ تا ۸، موقعیت دقیق هر دندان در فک را مشخص کرد؟", "gold_chunk_id": "FAQ-Clinic2::sec-29", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-26", "query": "آیا امکان مراجعه فوری به کلینیک بدون هماهنگی قبلی وجود دارد یا حتماً باید وقت بگیریم؟", "gold_chunk_id": "FAQ-Clinic2::sec-26", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-21#3", "query": "لیست کامل خدمات درمانی و زیبایی موجود در کلینیک شهید شکری چیست؟", "gold_chunk_id": "FAQ-Clinic2::sec-21#3", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-21#4", "query": "آیا امکان ویزیت دندان برای بچه‌ها در کلینیک شهید شکری وجود دارد؟", "gold_chunk_id": "FAQ-Clinic2::sec-21#4", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-31", "query": "در اولین مراجعه به کلینیک شهید شکری، چه مبلغی بابت معاینه و عکس‌برداری باید پرداخت کنم؟", "gold_chunk_id": "FAQ-Clinic2::sec-31", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-21#5", "query": "چه تخصص‌های دندانپزشکی در کلینیک شهید شکری قابل ارائه است؟", "gold_chunk_id": "FAQ-Clinic2::sec-21#5", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-32", "query": "میزان سابقه و مهارت تیم پزشکی کلینیک شهید شکری چگونه است؟", "gold_chunk_id": "FAQ-Clinic2::sec-32", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-29#2", "query": "آیا در کلینیک شهید شکری امکان درمان نامرتبی دندان با بریس ثابت یا متحرک برای همه سنین وجود دارد؟", "gold_chunk_id": "FAQ-Clinic2::sec-29#2", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-34", "query": "آیا در کلینیک شهید شکری امکان پرداخت نقدی وجود دارد یا فقط با کارت؟", "gold_chunk_id": "FAQ-Clinic2::sec-34", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-31#2", "query": "آیا کلینیک امکان تسهیلات یا تقسیط هزینه‌های دندانپزشکی را برای بیماران فراهم می‌کند؟", "gold_chunk_id": "FAQ-Clinic2::sec-31#2", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-36", "query": "آیا می‌توان در کلینیک شهید شکری از طریق لمینت یا بلیچینگ ظاهر دندان‌ها را بهبود بخشید؟", "gold_chunk_id": "FAQ-Clinic2::sec-36", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-31#3", "query": "آیا در کلینیک شما امکان انجام عکس رادیولوژی دندان و پانوراما وجود دارد یا باید به جای دیگری برویم؟", "gold_chunk_id": "FAQ-Clinic2::sec-31#3", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-32#2", "query": "برنامه زمانی فعالیت کلینیک شهید شکری در طول هفته و ساعات دقیق حضور بیمار چطور است؟", "gold_chunk_id": "FAQ-Clinic2::sec-32#2", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-Clinic2::sec-33", "query": "آیا امکان عصب‌کشی دندان در کلینیک شهید شکری وجود دارد؟", "gold_chunk_id": "FAQ-Clinic2::sec-33", "topic": "FAQ-Clinic2"}
+{"chunk_id": "FAQ-General Anesthesia::sec-1", "query": "مراحل و روش‌های اعمال بیهوشی برای درمان‌های دندانپزشکی چیست؟", "gold_chunk_id": "FAQ-General Anesthesia::sec-1", "topic": "FAQ-General Anesthesia"}
+{"chunk_id": "FAQ-General Anesthesia::sec-2", "query": "چه ریسک‌ها و عوارضی برای بیمار در هنگام استفاده از بیهوشی عمومی یا آرام‌بخشی در مطب دندانپزشکی وجود دارد؟", "gold_chunk_id": "FAQ-General Anesthesia::sec-2", "topic": "FAQ-General Anesthesia"}
+{"chunk_id": "FAQ-General Anesthesia::sec-3", "query": "چه محدودیت‌های پزشکی برای انجام بیهوشی عمومی در درمان دندان وجود دارد؟", "gold_chunk_id": "FAQ-General Anesthesia::sec-3", "topic": "FAQ-General Anesthesia"}
+{"chunk_id": "FAQ-General Anesthesia::sec-4", "query": "چه خطرات و عوارض جانبی برای بیمار بعد از تحت بی‌حسی عمومی در دندانپزشکی وجود دارد؟", "gold_chunk_id": "FAQ-General Anesthesia::sec-4", "topic": "FAQ-General Anesthesia"}
+{"chunk_id": "FAQ-General Anesthesia::sec-5", "query": "چند ساعت طول می‌کشد تا اثرات داروهای بیهوشی در دندانپزشکی از بین بروند و بیمار کاملاً هوشیار شود؟", "gold_chunk_id": "FAQ-General Anesthesia::sec-5", "topic": "FAQ-General Anesthesia"}
+{"chunk_id": "FAQ-General Anesthesia::sec-6", "query": "آیا در طول عمل جراحی با بیهوشی کامل، بیمار متوجه درد می‌شود یا خیر؟", "gold_chunk_id": "FAQ-General Anesthesia::sec-6", "topic": "FAQ-General Anesthesia"}
+{"chunk_id": "FAQ-General Anesthesia::sec-7", "query": "چقدر طول می‌کشد تا بعد از بیهوشی عمومی بتوانم با خیال راحت خودرو رانندگی کنم؟", "gold_chunk_id": "FAQ-General Anesthesia::sec-7", "topic": "FAQ-General Anesthesia"}
+{"chunk_id": "FAQ-General Anesthesia::sec-8", "query": "آیا بیهوشی برای دندان‌های کودک خطرناک است و در چه شرایطی تجویز می‌شود؟", "gold_chunk_id": "FAQ-General Anesthesia::sec-8", "topic": "FAQ-General Anesthesia"}
+{"chunk_id": "FAQ-General Anesthesia::sec-9", "query": "آیا مصرف قرص‌ها و مکمل‌ها قبل از عمل جراحی با بیهوشی خطرناک است؟", "gold_chunk_id": "FAQ-General Anesthesia::sec-9", "topic": "FAQ-General Anesthesia"}
+{"chunk_id": "FAQ-General Anesthesia::sec-11", "query": "آیا خطر آسیب دائمی به حافظه در اثر استفاده از بی‌حسی عمومی وجود دارد؟", "gold_chunk_id": "FAQ-General Anesthesia::sec-11", "topic": "FAQ-General Anesthesia"}
+{"chunk_id": "FAQ-General Anesthesia::sec-11#2", "query": "چه دستورالعمل‌هایی باید پس از خروج از اتاق عمل و بیدار شدن از بیهوشی رعایت شود؟", "gold_chunk_id": "FAQ-General Anesthesia::sec-11#2", "topic": "FAQ-General Anesthesia"}
+{"chunk_id": "FAQ-General Anesthesia::sec-12", "query": "چگونه می‌توان از بروز حساسیت به داروهای بیهوشی در دندانپزشکی جلوگیری کرد؟", "gold_chunk_id": "FAQ-General Anesthesia::sec-12", "topic": "FAQ-General Anesthesia"}
+{"chunk_id": "FAQ-General Anesthesia::sec-13", "query": "چه کارهایی باید قبل و بعد از عمل جراحی انجام دهم تا عوارض داروهای بی‌حسی عمومی را به حداقل برسانم؟", "gold_chunk_id": "FAQ-General Anesthesia::sec-13", "topic": "FAQ-General Anesthesia"}
+{"chunk_id": "FAQ-General Anesthesia::sec-14", "query": "آیا استفاده از بی‌حسی کامل در مطب دندانپزشکی ریسک آسیب دائمی به ارگان‌های بدن را دارد؟", "gold_chunk_id": "FAQ-General Anesthesia::sec-14", "topic": "FAQ-General Anesthesia"}
+{"chunk_id": "FAQ-General Anesthesia::sec-15", "query": "آیا پس از اتمام عمل با بیهوشی، هوشیاری‌ام به صورت ناگهانی برمی‌گردد یا آرام‌آرام؟", "gold_chunk_id": "FAQ-General Anesthesia::sec-15", "topic": "FAQ-General Anesthesia"}
