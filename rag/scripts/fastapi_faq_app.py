@@ -460,7 +460,7 @@ def speak(body: SpeakRequest):
 
 @app.post("/asr", response_model=AsrResponse)
 async def asr(file: UploadFile = File(...)):
-    """Persian speech to text. Send audio as multipart field `file`."""
+    """Persian speech to text. Send a wav as multipart `file`."""
     data = await file.read()
     if not data:
         raise HTTPException(400, "audio file is empty")

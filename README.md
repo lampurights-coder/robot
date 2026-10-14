@@ -151,7 +151,7 @@ infrence.py            sample /ask client
 | [BAAI/bge-reranker-v2-m3](https://huggingface.co/BAAI/bge-reranker-v2-m3) | same cache |
 | [ResembleAI/chatterbox](https://huggingface.co/ResembleAI/chatterbox) | path in `CHATTERBOX_CKPT` |
 | [Thomcles/Chatterbox-TTS-Persian-Farsi](https://huggingface.co/Thomcles/Chatterbox-TTS-Persian-Farsi) file `t3_fa.safetensors` | `T3_FA_WEIGHTS`, default `tita-arshia/t3_fa.safetensors` |
-| [vosk-model-fa-0.42](https://alphacephei.com/vosk/models/vosk-model-fa-0.42.zip) | unzip to `rag/models/vosk-model-fa-0.42`, or set `VOSK_MODEL` |
+| [vosk-model-fa-0.42](https://alphacephei.com/vosk/models/vosk-model-fa-0.42.zip) | unzip, then place the folder at `rag/models/vosk-fa` (CPU). Or set `VOSK_MODEL` to that folder. |
 | GGUF for the FAQ rewriter | outside this repo, served on port 8080 as model id `Qwen3.8-27B` |
 
 ```bash
@@ -160,6 +160,7 @@ mkdir -p rag/models
 wget -O /tmp/vosk-model-fa-0.42.zip \
   https://alphacephei.com/vosk/models/vosk-model-fa-0.42.zip
 unzip /tmp/vosk-model-fa-0.42.zip -d rag/models
+mv rag/models/vosk-model-fa-0.42 rag/models/vosk-fa
 ```
 
 Useful environment variables: `API_PORT`, `EMBED_DEVICE` (`cuda` or `cpu`), `USE_RERANKER`, `LLM_BASE_URL`, `LLM_MODEL`, `QDRANT_URL`, `SCORE_MIN`, `RERANK_MIN`, `QDRANT_FLOOR`, `TTS_DEVICE`, `VOSK_MODEL`.
