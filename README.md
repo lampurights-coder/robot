@@ -1,4 +1,5 @@
-# Tita Arshia
+![Logo](robot.png)
+
 
 Persian assistant for a dental clinic. Ask a question and get a JSON answer. The same server can read the answer aloud and turn a voice file back into text.
 
